@@ -1,0 +1,53 @@
+{
+  "applist": [
+    { 
+      "name": "Vendor Portal", 
+      "tag": "Business Operations", 
+      "createdOn": "2022-04-09", 
+      "createdBy": "CL", 
+      "modifiedOn": "2022-04-09", 
+      "modifiedBy": "CL"
+    },
+    { 
+      "name": "Customer Feedback", 
+      "tag": "Customer Service", 
+      "createdOn": "2022-04-09", 
+      "createdBy": "CL", 
+      "modifiedOn": "2022-04-09", 
+      "modifiedBy": "CL"
+    },
+    { 
+      "name": "Payment Management", 
+      "tag": "Delivery", 
+      "createdOn": "2022-04-09", 
+      "createdBy": "CL", 
+      "modifiedOn": "2022-04-09", 
+      "modifiedBy": "CL"
+    },
+    { 
+      "name": "Expense Claim", 
+      "tag": "", 
+      "createdOn": "2022-04-09", 
+      "createdBy": "CL", 
+      "modifiedOn": "2022-04-09", 
+      "modifiedBy": "CL"
+    },
+    { 
+      "name": "Leave Request", 
+      "tag": "", 
+      "createdOn": "2022-04-09", 
+      "createdBy": "CL", 
+      "modifiedOn": "2022-04-09", 
+      "modifiedBy": "CL"
+    },
+    { 
+      "name": "mployee Survey", 
+      "tag": "Business Operations", 
+      "createdOn": "2022-04-09", 
+      "createdBy": "CL", 
+      "modifiedOn": "2022-04-09", 
+      "modifiedBy": "CL"
+    }
+  ]
+}
+  
